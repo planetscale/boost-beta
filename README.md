@@ -6,19 +6,19 @@ In order to get started, head over to the database you're looking to enable Plan
 
 <img width="1264" alt="Screenshot 2022-11-14 at 14 44 08" src="https://user-images.githubusercontent.com/1907071/201784087-aba8e7bd-7e31-4cd2-a3a3-662f552ca3df.png">
 
-Once that's done, you can add a query cache instance:
+Once that's done, you can setup a cache:
 
 <img width="635" alt="Screenshot 2022-11-14 at 14 44 18" src="https://user-images.githubusercontent.com/1907071/201784178-a5751002-0fb3-43ff-822f-ba451f462bbf.png">
 
-During the limited beta, you'll only be able to add a 4GB cluster:
+During the limited beta, you'll only be able to add a 4GB cache:
 
 <img width="494" alt="Screenshot 2022-11-14 at 14 44 23" src="https://user-images.githubusercontent.com/1907071/201784250-38eaf0df-b069-4d11-8fc8-bd3bda179b9b.png">
 
-This will begin the process of creating a PlanetScale Boost cluster in the background, which may take a few minutes. Once that's done, you should see your 4GB cluster available:
+This will begin the process of creating a PlanetScale Boost cache in the background, which may take a few minutes. Once that's done, you should see your 4GB cache available:
 
 <img width="1016" alt="Screenshot 2022-11-14 at 14 51 46" src="https://user-images.githubusercontent.com/1907071/201784707-66ad3acf-9727-4aab-a9e2-413c98a406e1.png">
 
-At this point, you're ready to get boosting! Follow the directions in our [PlanetScale Boost Documentation]() to find a query from the last 24 hours that's eligible for boosting, and start testing it out.
+At this point, you're ready to get boosting! Follow the directions in our [PlanetScale Boost Documentation](https://planetscale.com/docs/concepts/query-caching-with-planetscale-boost#schema-changes-with-cached-queries) to find a query from the last 24 hours that's eligible for caching, and start testing it out.
 
 ## Help and Feedback
 
