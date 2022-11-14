@@ -25,3 +25,8 @@ At this point, you're ready to get boosting! Follow the directions in our [Plane
 Our primary channel for support around PlanetScale Boost will be our [Discussion Board](https://github.com/planetscale/boost-beta/discussions) in this Repository. This is where we will be posting updates for any major changes, and where we're asking users to provide feedback or pass along difficulties. If you have any issues, feedback, or just want to say hi - head over there! 
 
 While PlanetScale Boost is in limited beta, we will do what we can to avoid breaking implicit behavior or causing disruptions, but that may not always be possible. We do not recommend using PlanetScale Boost for critical workflows while we are in the limited beta timeframe. 
+
+## Helpful Links
+
+- [PlanetScale Boost Documentation](https://planetscale.com/docs/concepts/query-caching-with-planetscale-boost)
+- [PlanetScale Boost Discussions](https://github.com/planetscale/boost-beta/discussions)
