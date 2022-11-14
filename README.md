@@ -2,7 +2,7 @@
 
 Welcome! If you're reading this, it means you've been invited into the limited beta, and are moments away from trying out PlanetScale Boost for yourself.
 
-In order to get started, head over to the database you're looking to enable PlanetScale Boost with and look for the Boost tap, and join the limited beta:
+In order to get started, head over to the database you're looking to enable PlanetScale Boost with and look for the Boost tab, and join the limited beta:
 
 <img width="1264" alt="Screenshot 2022-11-14 at 14 44 08" src="https://user-images.githubusercontent.com/1907071/201784087-aba8e7bd-7e31-4cd2-a3a3-662f552ca3df.png">
 
