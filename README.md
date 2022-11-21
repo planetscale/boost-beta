@@ -18,7 +18,7 @@ This will begin the process of creating a PlanetScale Boost cache in the backgro
 
 <img width="1016" alt="Screenshot 2022-11-14 at 14 51 46" src="https://user-images.githubusercontent.com/1907071/201784707-66ad3acf-9727-4aab-a9e2-413c98a406e1.png">
 
-At this point, you're ready to get boosting! Follow the directions in our [PlanetScale Boost Documentation](https://planetscale.com/docs/concepts/query-caching-with-planetscale-boost#schema-changes-with-cached-queries) to find a query from the last 24 hours that's eligible for caching, and start testing it out.
+At this point, you're ready to get boosting! Follow the directions in our [PlanetScale Boost Documentation](https://planetscale.com/docs/concepts/query-caching-with-planetscale-boost) to find a query from the last 24 hours that's eligible for caching, and start testing it out.
 
 ## Help and Feedback
 
